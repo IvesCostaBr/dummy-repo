@@ -6,4 +6,4 @@ def fibonacci(n):
     else:
         return fibonacci(n-1) + fibonacci(n-2)
 
-print(fibonacci(10)) # Exemplo de chamada da função com n=10, resultado será o décimo número da sequência de Fibonacci.
+print(fibonacci(10))
