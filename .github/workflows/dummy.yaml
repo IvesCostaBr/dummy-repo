@@ -16,4 +16,4 @@ jobs:
           ref: "${{ github.ref }}"
 
       - name: exec tests
-        run: echo "123"
+        run: echo ""
